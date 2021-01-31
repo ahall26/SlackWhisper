@@ -1,11 +1,13 @@
 import json
 import http.client
+import boto3
 
 
 def lambda_handler(event, context):
 
-    matches = ["slow", "not loading", "page down", "can't access", "having issues"]
-    
+    matches = boto3.resource('dynamodb', endpoint_url="http://localhost:8080").Table('EnVariables').scan().get('Items')[0]['value']
+    print(matches)
+
     if any(x in event['event']['text'] for x in matches):
         conn = http.client.HTTPSConnection("hooks.slack.com")
         payload = json.dumps({"text": json.dumps(event,indent=4, sort_keys=True)})
@@ -28,3 +30,7 @@ def lambda_handler(event, context):
             'body': json.dumps(event)
         }
     return none
+
+
+matches = boto3.resource('dynamodb', endpoint_url="http://localhost:8080").Table('EnVariables').scan().get('Items')[0]['value']
+print(matches)
