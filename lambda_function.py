@@ -1,6 +1,5 @@
 import json
 import http.client
-import
 
 
 def lambda_handler(event, context):
