@@ -3,9 +3,11 @@ import http.client
 import boto3
 
 
-def lambda_handler(event, context):
+def lambda_handler(event, context, dynamodb=None):
+    if not dynamodb:
+        dynamodb = boto3.resource('dynamodb', endpoint_url="http://localhost:8080")
 
-    matches = boto3.resource('dynamodb', endpoint_url="http://localhost:8080").Table('EnVariables').scan().get('Items')[0]['value']
+    matches = dynamodb.Table('EnVariables').scan().get('Items')[0]['value']
     print(matches)
 
     if any(x in event['event']['text'] for x in matches):
@@ -29,8 +31,4 @@ def lambda_handler(event, context):
             'statusCode': 200,
             'body': json.dumps(event)
         }
-    return none
-
-
-matches = boto3.resource('dynamodb', endpoint_url="http://localhost:8080").Table('EnVariables').scan().get('Items')[0]['value']
-print(matches)
+    return None
