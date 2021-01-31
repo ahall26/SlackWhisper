@@ -1,0 +1,707 @@
+[
+    {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "zDJo",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "Anyone else having issues?",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "0ea66e06-09ac-405b-ba44-c8e2f4490e82",
+            "event_ts": "1612103101.001000",
+            "team": "TM49NLNKU",
+            "text": "Anyone else having issues?",
+            "ts": "1612103101.001000",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01L0VDDVU7",
+        "event_time": 1612103101,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "wZQm",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "having issues",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "5321b220-e3d2-4e20-8174-3aa0b4cf99a1",
+            "event_ts": "1612028815.000400",
+            "team": "TM49NLNKU",
+            "text": "having issues",
+            "ts": "1612028815.000400",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LETK8L8J",
+        "event_time": 1612028815,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "hDdgj",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "having issues",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "c45b6124-c4f7-4a52-b9d3-a79eb13a444e",
+            "event_ts": "1612070852.001400",
+            "team": "TM49NLNKU",
+            "text": "having issues",
+            "ts": "1612070852.001400",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01L8KB58R4",
+        "event_time": 1612070852,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "WT/dJ",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "oh no oh no i see an error",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "9c2010d7-4cf8-47d0-890f-9605db12d570",
+            "event_ts": "1612070773.000800",
+            "team": "TM49NLNKU",
+            "text": "oh no oh no i see an error",
+            "ts": "1612070773.000800",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LMHL29KN",
+        "event_time": 1612070773,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "k3=A",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "in trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "ccff3e21-8437-4335-8d6b-142545867217",
+            "event_ts": "1612070755.000600",
+            "team": "TM49NLNKU",
+            "text": "in trouble",
+            "ts": "1612070755.000600",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LFCQFETC",
+        "event_time": 1612070755,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "wZQm",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "having issues",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "5321b220-e3d2-4e20-8174-3aa0b4cf99a1",
+            "event_ts": "1612028815.000400",
+            "team": "TM49NLNKU",
+            "text": "having issues",
+            "ts": "1612028815.000400",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LETK8L8J",
+        "event_time": 1612028815,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "CFGBe",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "is anyone else having issues",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "ba0b21de-2514-47ea-b4b6-3b336ff67f9c",
+            "event_ts": "1611985208.002500",
+            "team": "TM49NLNKU",
+            "text": "is anyone else having issues",
+            "ts": "1611985208.002500",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01L7JCHW06",
+        "event_time": 1611985208,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "tKPI",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "they only see a blank page",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "a421e538-48be-43a9-9d20-f63d985b0b42",
+            "event_ts": "1612104628.003400",
+            "team": "TM49NLNKU",
+            "text": "they only see a blank page",
+            "ts": "1612104628.003400",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01L10JK1F1",
+        "event_time": 1612104628,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "MfE0",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "They are seeing a 404 error",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "1acecd92-f22f-4359-9f67-5a49192386a5",
+            "event_ts": "1612104614.003100",
+            "team": "TM49NLNKU",
+            "text": "They are seeing a 404 error",
+            "ts": "1612104614.003100",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LMU56YF6",
+        "event_time": 1612104614,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "smfp8",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "Is the page down",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "cffb3143-2821-4fe8-a441-268203e633d8",
+            "event_ts": "1612104592.002500",
+            "team": "TM49NLNKU",
+            "text": "Is the page down",
+            "ts": "1612104592.002500",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01L90FA2DU",
+        "event_time": 1612104592,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "vYQh",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "The customer is threatening to cancel",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "242e6108-b9c4-4557-a061-34532ae29d97",
+            "event_ts": "1612104585.002300",
+            "team": "TM49NLNKU",
+            "text": "The customer is threatening to cancel",
+            "ts": "1612104585.002300",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LFVB7NKV",
+        "event_time": 1612104585,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "EC+",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "customer can't access the homepage either",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "b153a3aa-fd1b-40eb-a144-faf59d2f276d",
+            "event_ts": "1612104566.001900",
+            "team": "TM49NLNKU",
+            "text": "customer can't access the homepage either",
+            "ts": "1612104566.001900",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01M5JMRP3J",
+        "event_time": 1612104566,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "jcJ",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "and I can't access the homepage",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "d117e182-64a2-4027-a0ef-81787ee2114c",
+            "event_ts": "1612104552.001600",
+            "team": "TM49NLNKU",
+            "text": "and I can't access the homepage",
+            "ts": "1612104552.001600",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01LCLQMRB7",
+        "event_time": 1612104552,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "SUZ",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "The webpage is not loading",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "24680ff0-5584-4411-88f7-ce76e7f43aa9",
+            "event_ts": "1612104543.001400",
+            "team": "TM49NLNKU",
+            "text": "The webpage is not loading",
+            "ts": "1612104543.001400",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01M5JMHGAC",
+        "event_time": 1612104543,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     },
+     {
+        "api_app_id": "A01KNE6JDKR",
+        "authorizations": [
+            {
+                "enterprise_id": null,
+                "is_bot": true,
+                "is_enterprise_install": false,
+                "team_id": "TM49NLNKU",
+                "user_id": "U01KWFWF12S"
+            }
+        ],
+        "event": {
+            "blocks": [
+                {
+                    "block_id": "akTqc",
+                    "elements": [
+                        {
+                            "elements": [
+                                {
+                                    "text": "This is not loading",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "rich_text_section"
+                        }
+                    ],
+                    "type": "rich_text"
+                }
+            ],
+            "channel": "CMFNYJBGD",
+            "channel_type": "channel",
+            "client_msg_id": "de845fdb-e9d8-4f5c-9545-1e084c09e424",
+            "event_ts": "1612104522.001200",
+            "team": "TM49NLNKU",
+            "text": "This is not loading",
+            "ts": "1612104522.001200",
+            "type": "message",
+            "user": "UM49R1J3V"
+        },
+        "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+        "event_id": "Ev01M5JMA0E4",
+        "event_time": 1612104522,
+        "is_ext_shared_channel": false,
+        "team_id": "TM49NLNKU",
+        "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+        "type": "event_callback"
+     }
+]

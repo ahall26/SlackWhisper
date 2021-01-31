@@ -3,7 +3,7 @@ import http.client
 import boto3
 
 
-def lambda_handler(event, context, dynamodb=None):
+def lambda_handler(event, context=None, dynamodb=None):
     if not dynamodb:
         dynamodb = boto3.resource('dynamodb', endpoint_url="http://localhost:8080")
 
@@ -32,3 +32,7 @@ def lambda_handler(event, context, dynamodb=None):
             'body': json.dumps(event)
         }
     return None
+
+with open("response_slack.json") as json_file:
+    event = json.load(json_file)
+lambda_handler(event)
