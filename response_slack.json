@@ -1,0 +1,47 @@
+{
+   "api_app_id": "A01KNE6JDKR",
+   "authorizations": [
+       {
+           "enterprise_id": null,
+           "is_bot": true,
+           "is_enterprise_install": false,
+           "team_id": "TM49NLNKU",
+           "user_id": "U01KWFWF12S"
+       }
+   ],
+   "event": {
+       "blocks": [
+           {
+               "block_id": "wZQm",
+               "elements": [
+                   {
+                       "elements": [
+                           {
+                               "text": "having issues",
+                               "type": "text"
+                           }
+                       ],
+                       "type": "rich_text_section"
+                   }
+               ],
+               "type": "rich_text"
+           }
+       ],
+       "channel": "CMFNYJBGD",
+       "channel_type": "channel",
+       "client_msg_id": "5321b220-e3d2-4e20-8174-3aa0b4cf99a1",
+       "event_ts": "1612028815.000400",
+       "team": "TM49NLNKU",
+       "text": "having issues",
+       "ts": "1612028815.000400",
+       "type": "message",
+       "user": "UM49R1J3V"
+   },
+   "event_context": "1-message-TM49NLNKU-CMFNYJBGD",
+   "event_id": "Ev01LETK8L8J",
+   "event_time": 1612028815,
+   "is_ext_shared_channel": false,
+   "team_id": "TM49NLNKU",
+   "token": "nhYf3E4sg3cB3DqSraeEnJ9o",
+   "type": "event_callback"
+}
