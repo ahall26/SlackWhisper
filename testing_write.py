@@ -1,15 +1,9 @@
 import json
 import http.client
-import boto3
 
 
-def lambda_handler(event, context=None, dynamodb=None):
-    if not dynamodb:
-        dynamodb = boto3.resource('dynamodb', endpoint_url="http://localhost:8080")
-
-    matches = dynamodb.Table('EnVariables').scan().get('Items')[0]['value']
-    print(matches)
-
+def lambda_handler(event):
+    matches = ['error', 'blank page', '404 error', 'not loading', 'having issues', "can't access", 'cancel', 'escalation', 'page down', 'site down', 'slow']
     if any(x in event['event']['text'] for x in matches):
         with open('responses_slack.json') as json_file:
             responses = json.load(json_file)
@@ -40,6 +34,5 @@ def lambda_handler(event, context=None, dynamodb=None):
         }
     return None
 
-with open("response_slack.json") as json_file:
-    event = json.load(json_file)
+event = 
 lambda_handler(event)
